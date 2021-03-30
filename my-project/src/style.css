@@ -1,0 +1,52 @@
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin: 20px;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+}
+
+td, th {
+  padding: 10px;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+.song-form-table {
+  margin: 40px 0px;
+}
+
+.song-list-table {
+  margin: 60px 0px;
+}
+
+.add-song-row {
+  text-align: center;
+}
+
+.add-song-button {
+  width: 1000px;
+  height: 40px;
+}
+
+.song-row__item {
+  width:285px;
+}
+
+.sort-buttons-row {
+  text-align: center;
+}
+
+.delete-songs-row {
+  text-align: center;
+}
+
+.clear-list-button {
+  width: 1000px;
+  height: 40px;
+}
